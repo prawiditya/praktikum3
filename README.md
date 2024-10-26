@@ -50,7 +50,7 @@ Program ini akan:
 3. Membandingkan setiap input dengan nilai maksimum yang tersimpan
 4. Menampilkan bilangan terbesar yang ditemukan
 ## Flowchart Program
-![image](https://github.com/user-attachments/assets/0487919e-0ad0-4f7a-ab96-d0ec79ece5f0)
+![image](https://github.com/user-attachments/assets/abb8dcf0-c105-4b02-a411-8a9c882510bd)
 ## Kode Program
 ```Python
 bilangan_max = 0
